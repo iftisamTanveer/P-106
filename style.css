@@ -1,0 +1,21 @@
+body
+{
+    background-color: grey;
+    color: black;
+    text-align: center;
+}
+
+.copy_right_footer
+{
+    bottom: 0;
+    line-height: 3;
+    width: 100%;
+    position: fixed;
+    background-color: white;
+}
+
+.col-xs-12 header_div text-center
+{
+    background-color: darkslategrey;
+    color: white;
+}
